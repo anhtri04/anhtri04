@@ -61,15 +61,15 @@ I enjoy building scalable systems, real-time applications, and smart platforms u
 
 | 🚀 Project | 📝 Description | 🔗 Link |
 |---|---|---|
-| **AI Integrated Trading Platform** | Full-stack trading platform with AI-powered stock analysis and real-time data | [Live Demo](https://trading-platform-frontend-653974439992.asia-southeast1.run.app/) |
-| **Kanva** | AWS Diagram tool | [GitHub](https://github.com/anhtri04/Kanva) |
+| **AI Integrated Trading Platform** | Full-stack trading platform with AI-powered stock analysis and real-time data | [Live Demo](https://tradingplatformwithai.mastercuberskill.workers.dev/) |
 | **Stock Filtering** | Advanced stock screening and filtering tool | [GitHub](https://github.com/anhtri04/stock-filtering) |
 | **Gymnasium.ai** | AI football game | [GitHub](https://github.com/anhtri04/gymnasium) |
 | **Init Window** | Window management utility | [GitHub](https://github.com/anhtri04/init-window) |
 | **Storage Service** | Scalable file storage microservice | [GitHub](https://github.com/anhtri04/storage-service) |
 | **vnstock-java-kbs** | Java library for Vietnamese stock market data | [GitHub](https://github.com/anhtri04/vnstock-java-kbs) |
 | **hydra-db** | An event store DB written in Go | [GitHub](https://github.com/anhtri04/hydra-db) | 
-| **hydra-tunneling | A VPN service written in Go | [GitHub](https://github.com/anhtri04/hydra-tunneling) | 
+| **Skillmaxing.ai** | a Chrome extension that helps users understand unfamiliar terms while reading articles, blog posts, or social media. | [GitHub](https://github.com/anhtri04/Skillmaxing.ai) | 
+| **Mailman** | A terminal-based API testing client built with Bun and OpenTUI. | [GitHub](https://github.com/anhtri04/mailman) | 
 
 ---
 
